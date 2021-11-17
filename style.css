@@ -33,6 +33,7 @@ li a {
   text-decoration: none;
   margin-top: 10px;
   margin-bottom: 10px;
+  color: gray;
 }
 
 li a:hover:not(.active) {
@@ -112,4 +113,5 @@ ul li ul:hover {
 }
 .button a {
   text-decoration: none;
+  color: white;
 }
